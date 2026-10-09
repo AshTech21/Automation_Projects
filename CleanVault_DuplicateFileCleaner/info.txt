@@ -1,0 +1,1 @@
+This folder containts the CleanVault Duplicate file cleaner project which a Automated python script which deletes the duplicate files.
