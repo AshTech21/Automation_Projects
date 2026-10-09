@@ -1,7 +1,7 @@
 ###########################################################################################################
 # Automation Script Name : Clean Vault
 # Use                    : It finds all the duplicate files and delete them to maintain the storage.
-# Author name            : AshwinKumar Suhas Kulkarni``
+# Author name            : AshwinKumar Suhas Kulkarni
 ###########################################################################################################
 import os
 import hashlib
